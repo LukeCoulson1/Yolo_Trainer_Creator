@@ -1,0 +1,9 @@
+# YOLO Dataset Configuration
+# Created: 2025-08-28 09:42:24
+
+train: images
+val: images
+test: images
+
+nc: 1
+names: ['object']

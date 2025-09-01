@@ -1,0 +1,1 @@
+F:/Programming/Yolo_Trainer/.venv/Scripts/python.exe -m streamlit run app.py
